@@ -6,7 +6,7 @@ import "./index.css";
 let data = [];
 class Home extends Component {
   state = {
-    createMovie: false,
+    createMovie: true,
     dataAdded: false,
   };
 
