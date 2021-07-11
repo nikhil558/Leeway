@@ -1,0 +1,19 @@
+.cards {
+  background-color: #135e5e;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards-movie-title {
+  font-size: 30px;
+}
+.cards-director-name {
+  font-size: 30px;
+  margin-top: 0px;
+}

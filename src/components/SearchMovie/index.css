@@ -1,0 +1,79 @@
+.inputSearchContainer {
+  margin-left: 308px;
+  margin-right: 308px;
+  margin-top: 144px;
+  margin-bottom: 0px;
+  background-color: #2f2f43;
+  width: 824px;
+  height: 72px;
+  border-width: 0px;
+  display: flex;
+  border-radius: 8px;
+  align-items: center;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.searchIcon {
+  color: #94a3b8;
+  width: 24px;
+  height: 24px;
+}
+
+.inputSearch {
+  width: 100%;
+  height: 72px;
+  border: 0px;
+  outline: none;
+  margin-left: 8px;
+  background-color: #2f2f43;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #94a3b8;
+}
+
+.movies-container {
+  width: 830px;
+  background-color: #71577d;
+  border-radius: 8px;
+  margin-left: 308px;
+  margin-top: 32px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  margin-right: 308px;
+  padding-left: 60px;
+}
+.cards {
+  background-color: #135e5e;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards-movie-title {
+  font-size: 30px;
+}
+.cards-director-name {
+  font-size: 30px;
+  margin-top: 0px;
+}
+.button {
+  width: 85px;
+  height: 35px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: 0px;
+  margin-left: 308px;
+  margin-top: 10px;
+}
